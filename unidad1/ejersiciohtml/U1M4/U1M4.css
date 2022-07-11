@@ -1,0 +1,28 @@
+h1 {
+    color: rgb(19, 159, 190);
+}
+
+.titulo {
+    border: 2px rgb(225, 193, 9) inset;
+    border-radius: 5px;
+    border-width: 3px;
+    text-align: center;
+}
+
+.imagen {
+    text-align: center;
+}
+
+h2 {
+    text-decoration-line: underline;
+    color: rgb(93, 93, 203);
+}
+
+.laburo1 {
+    border: 2px rgb(83, 13, 168) inset;
+}
+
+.laburo2 {
+    border: 2px rgb(83, 13, 168) inset;
+
+}
